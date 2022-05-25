@@ -9,8 +9,7 @@ import Addfaculty from './Components/Addfaculty';
 function App() {
   return (
    <div>
-     <Addstudent/>
-     <Searchstudent/>
+    
      <Addfaculty/>
    </div>
   );
